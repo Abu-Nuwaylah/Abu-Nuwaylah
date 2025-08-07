@@ -1,6 +1,7 @@
 <h1>welcome to my Page 👋</h1>
 
-My coding Skills are: Html, CSS, Javascript, JSON, Liquid.
+<h5>My coding Skills are:</h5> 
+Html, CSS, Javascript, JSON, Liquid.
 
 
 
