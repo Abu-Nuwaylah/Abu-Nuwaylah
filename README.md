@@ -1,4 +1,6 @@
-## Hi there 👋
+welcome to my Page 👋
+
+My coding Skills are: Html, CSS, Javascript, JSON, Liquid.
 
 
 
