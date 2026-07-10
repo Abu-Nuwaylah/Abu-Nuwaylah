@@ -60,7 +60,6 @@ Badges / Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Nuwaylah&layout=compact&theme=default)
 
-(You can customize these cards at https://github-readme-stats.vercel.app/)
 
 ## Recent Activity
 
