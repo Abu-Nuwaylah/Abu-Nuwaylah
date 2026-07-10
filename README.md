@@ -14,7 +14,9 @@ Welcome to my GitHub! I build clean, responsive interfaces and small portfolio p
 - Bio: "Welcome to my page  \r\nJuhayfah is the name. I'm a Front-end developer from America (US)."
 - Website / Blog: https://juhayfahbuck.org 🔗
 
-I build portfolio sites and front-end projects focused on usability and clean code. I work independently on personal projects and continuously refine my HTML/CSS/JavaScript skills while exploring modern front-end tooling.
+I build portfolio sites and front-end projects focused on usability and clean code. 
+I work independently on personal projects and continuously refine my HTML/CSS/JavaScript skills 
+while exploring modern front-end tooling.
 
 ## Skills & Technologies 
 
@@ -82,6 +84,6 @@ Personal blog / website: https://juhayfahbuck.org
 
 ## Connect with Me
 
-{}
+{website: https://juhayfahbuck.org}
 
 
