@@ -43,9 +43,6 @@ I build portfolio sites and front-end projects focused on usability and clean co
    - Primary language: (not specified)
    - Last pushed: 2024-02-16
 
-Notes:
-- Repositories are small, focused projects and experiments showcasing front-end work and learning progress.
-- Want a particular project highlighted? Pin repos on your profile and add README demos for a stronger showcase.
 
 ## GitHub Stats
 
@@ -73,7 +70,7 @@ Recent repository pushes (most recent first):
 - Repository: **stellar-site** — last pushed: 2024-09-30 (portfolio site updates)
 - Repository: **Test-runner** — last pushed: 2024-02-16 (experiments / tests)
 
-Note: No public event stream was available to list detailed issues/PRs. For live activity, check the user profile's contributions timeline: https://github.com/Abu-Nuwaylah
+
 
 ## Latest Blog Posts
 
@@ -81,7 +78,7 @@ Note: No public event stream was available to list detailed issues/PRs. For live
 
 Personal blog / website: https://juhayfahbuck.org
 
-I wasn't able to fetch recent posts automatically. If you publish articles, consider adding links or an RSS feed to your profile README so visitors can discover your latest posts. If you'd like, I can help format a posts list if you paste recent article titles and links.
+
 
 ## Connect with Me
 
